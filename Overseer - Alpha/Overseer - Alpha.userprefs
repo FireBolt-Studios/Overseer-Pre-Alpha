@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Core\Build\BuildModule.cs">
+    <Files>
+      <File FileName="Assets\Core\Game\Control\ControlCamera.cs" Line="9" Column="25" />
+      <File FileName="Assets\Editor\EditorResizeHubWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Core\Build\BuildUtility.cs" Line="15" Column="47" />
+      <File FileName="Assets\Core\Game\GameUtility.cs" Line="8" Column="3" />
+      <File FileName="Assets\Editor\EditorResizeCorridorWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\EditorResizeElevatorWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\EditorFitCorridorWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Core\Build\BuildConnector.cs" Line="12" Column="1" />
+      <File FileName="Assets\Core\Build\BuildModule.cs" Line="22" Column="45" />
+      <File FileName="Assets\Core\Build\BuildManager.cs" Line="14" Column="57" />
+      <File FileName="Assets\Core\Game\UI\UIBuildButton.cs" Line="12" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
